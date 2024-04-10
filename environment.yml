@@ -17,4 +17,3 @@ dependencies:
     - gdown==3.8.1
     - imgaug==0.2.8
     - opencv-python==4.1.0.25
-
